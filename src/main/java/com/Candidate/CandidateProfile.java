@@ -61,6 +61,7 @@ public class CandidateProfile {
         this.careerBreak = careerBreak;
         this.resume = resume;
         this.address = address;
+        System.out.println("hello world");
     }
 
     public int getCandidateId() {
